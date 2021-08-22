@@ -7,6 +7,7 @@
 - 💰 Freelancer and writer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my instagram is @chilled_coder
+![image](https://user-images.githubusercontent.com/68745704/130344031-1fe21f45-d2f2-4a4d-adea-b3ff3e6c051e.png)
 
 <!---
 amcareem/amcareem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
