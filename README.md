@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahamed Musthafa Careem</h1>
-<h3 align="center">A passionate enthusiastic programmer from Sri Lanka</h3>
+<h1 align="center">HELLO WORLD 👋, I'm Ahamed Musthafa Careem</h1>
+<h3 align="center"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">A passionate enthusiastic programmer from Sri Lanka<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> </p>
 
@@ -56,4 +56,32 @@
 
 <p><img align="center" src="https://metrics.lecoq.io/amcareem?template=classic&config.timezone=Asia%2FColombo" alt="amcareem" /></p>
 
+```javascript
 
+class About Me
+{
+    Country: Sri Lanka
+    AGE: ["19"],
+    Birthday: ["December 12"],
+    Fortnite ID: Chilled JOKER
+    Favourite Game: Watch Dogs
+    Qualifications: ACCA FAB, CS50
+    Currently Studying: BTEC HND+Bsc in Software Engineering
+    Nickname: Joker
+    
+    def __init__(self):
+        self.name = "Ahamed Musthafa Careem"
+        self.role = "AMC Data Solutions Founder/Freelancer"
+        self.language_spoken = ["English", "Sinhala", "Tamil"]
+    
+    //life motto
+    if (sad() === true)
+    {
+    sad().stop();
+    beAwesome and Enjoy();
+    }
+    
+    currentFocus: "Studies",
+    funFact: "I'm always hungry!!!"
+};
+```
