@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Gaming and PC build advice**
 
-- ⚡ Fun fact:- **One thing I cannot live without is my PC**
+- ⚡ Fun fact:- **One thing I cannot live without my PC and I'm a sarcasm connoisseur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
