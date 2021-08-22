@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahamed Careem</h1>
+<h1 align="center">Hi 👋, I'm Ahamed Musthafa Careem</h1>
 <h3 align="center">A passionate programming enthusiastic from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> </p>
@@ -7,16 +7,15 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **coding tips**
+- 💬 Ask me about **Gaming and PC build advice**
 
-- ⚡ Fun fact **One thing I cannot live without is my PC**
+- ⚡ Fun fact:- **One thing I cannot live without is my PC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chilled_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chilled_coder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahamed-careem-76b5b2215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahamed-careem-76b5b2215/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahamed-careem-76b5b2215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahamed-careem-76b5b2215" height="30" width="40" /></a>
 <a href="https://instagram.com/chilled_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chilled_coder" height="30" width="40" /></a>
-<a href="https://discord.gg/amcareem#3233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amcareem#3233" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amcareem&show_icons=true&locale=en&layout=compact" alt="amcareem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amcareem&show_icons=true&locale=en" alt="amcareem" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amcareem&" alt="amcareem" /></p>
