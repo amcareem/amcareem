@@ -54,3 +54,6 @@
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=amcareem&theme=react-dark" alt="amcareem" /></p>
 
+<p><img align="center" src="https://metrics.lecoq.io/amcareem?template=classic&config.timezone=Asia%2FColombo" alt="amcareem" /></p>
+
+
