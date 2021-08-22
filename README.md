@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
 - 💬 Ask me about **Gaming and PC build advice**
 
 - ⚡ Fun fact:- **One thing I cannot live without is my PC**
@@ -25,4 +27,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amcareem&show_icons=true&locale=en" alt="amcareem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amcareem&" alt="amcareem" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amcareem&langs_count=8 " alt="amcareem" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amcareem&" alt="amcareem" /></p>
+
+
+
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=amcareem&theme=react-dark" alt="amcareem" /></p>
+
