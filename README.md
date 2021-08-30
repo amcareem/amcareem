@@ -1,5 +1,5 @@
 <h1 align="center">HELLO WORLD 👋, I'm Ahamed Musthafa Careem</h1>
-<h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic programmer from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
+<h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic programming student from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
 
 
 
