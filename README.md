@@ -13,6 +13,8 @@
 
 ⚡ Fun fact:- **One thing I cannot live without my PC and I'm a sarcasm connoisseur**
 
+<a href="https://wakatime.com/@a146c37f-e597-4578-9b36-bcbd883f99a7"><img src="https://wakatime.com/badge/user/a146c37f-e597-4578-9b36-bcbd883f99a7.svg" alt="Total time coded since Dec 1 2021" /></a>
+
 <h3 align="center"><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="50">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/chilled_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chilled_coder" height="30" width="40" /></a>
