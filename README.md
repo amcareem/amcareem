@@ -13,7 +13,7 @@
 
 ⚡ Fun fact:- **One thing I cannot live without my PC and I'm a sarcasm connoisseur**
 
-<a href="https://wakatime.com/@a146c37f-e597-4578-9b36-bcbd883f99a7"><img src="https://wakatime.com/badge/user/a146c37f-e597-4578-9b36-bcbd883f99a7.svg" alt="Total time coded since Dec 1 2021" /></a>
+<figure><embed src="https://wakatime.com/share/@amcareem/902eb32b-bb07-41b1-a739-ba9661c43723.svg"></embed></figure>
 
 <h3 align="center"><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="50">Connect with me:</h3>
 <p align="center">
