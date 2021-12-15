@@ -2,22 +2,20 @@
 
 <h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic programming student from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
 
+<p align="center">
+  <samp>I'm a Software Engineering Student from Sri Lanka who currently works as a Freelancer on Upwork. I like to learn and know about the latest tech news as well as I have a vast knowledge on Business Background. I'm a pro Fortnite player and my favourite game is WatchDog series which gives me nostalgia.
+  </samp>
+  <br> <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://gitwar.herokuapp.com/badge?username=amcareem"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233D83F7&lines=20+year+old+Freelancer;Fortnite+Coach;Movie+lover+%26+a+Cook)](https://git.io/typing-svg)	
+</p>
+<hr>
 
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amcareem" alt="amcareem" /></a> </p>
 
-<p align="left"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<p align="center"> <img src="https://gitwar.herokuapp.com/badge?username=amcareem"/>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> </p>
-🌱 I’m currently studying **Computer Science**
 
-👯 I’m looking to collaborate on **OpenSource Projects**
-
-💬 Ask me about **Gaming and PC build advice**
-
-⚡ Fun fact:- **One thing I cannot live without my PC and I'm a sarcasm connoisseur**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233D83F7&lines=20+year+old+Freelancer;Fortnite+Coach;Movie+lover+%26+a+Cook)](https://git.io/typing-svg)
 
 <h3 align="center"><img src="https://media.giphy.com/media/8zldD29JNeLRK/giphy.gif" width="50">Connect with me:</h3>
 <p align="center">
@@ -179,7 +177,6 @@ Apache	![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the
 
 Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -189,7 +186,7 @@ Gaming
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
-![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
+
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
@@ -199,6 +196,7 @@ Operating System
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -206,5 +204,30 @@ Operating System
 Browser
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+
+
+Virtual Assistants
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
+
+
+Crypto
+![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+
+Smartphone
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
+
+
+
+
+
+
+
+
+
 
 
