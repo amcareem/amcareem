@@ -3,11 +3,22 @@
 <h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic programming student from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
 
 <p align="center">
-  <samp>I'm a Software Engineering Student from Sri Lanka who currently works as a Freelancer on Upwork. I like to learn and know about the latest tech news as well as I have a vast knowledge on Business Background. I'm a pro Fortnite player and my favourite game is WatchDog series which gives me nostalgia.
+  <samp>I'm a Software Engineering Student from Sri Lanka who currently works as a Freelancer on Upwork. I like to learn and know about the latest tech news as well as I have a vast knowledge on Business Background. I'm a pro Fortnite player and my favourite game is WatchDogs series which gives me nostalgia.
   </samp>
   <br> <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://gitwar.herokuapp.com/badge?username=amcareem"/>
 
+	
+
+
+	
+<p align="center"> <img src="https://img.shields.io/badge/Name-Ahamed%20Musthafa%20Careem-brightgreen"/>
+	<img src="https://img.shields.io/badge/Birthday-Dec%2012th-orange"/>
+	<img src="https://img.shields.io/badge/Qualifications-ACCA%20FAB%2C%20CS50%2C%20CAIT-informational"/>
+	<img src="https://img.shields.io/badge/Code%20Grade-%22A%22%20for%20Effort-success"/> <img src="https://img.shields.io/badge/Flex-Former%20Rated%20Chess%20Player-4469b4"/>	 <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://img.shields.io/github/followers/amcareem?style=social"/><img src="https://gitwar.herokuapp.com/badge?username=amcareem"/>
+
+	
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousand+%20lines%20of%20code-bl"/>	
+	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233D83F7&lines=20+year+old+Freelancer;Fortnite+Coach;Movie+lover+%26+a+Cook)](https://git.io/typing-svg)	
 </p>
 <hr>
@@ -65,7 +76,7 @@
 class About Me
 {
     Country: Sri Lanka
-    AGE: ["19"],
+    AGE: ["20"],
     Birthday: ["December 12"],
     Fortnite ID: Chilled JOKER
     Favourite Game: Watch Dogs
@@ -89,8 +100,8 @@ class About Me
     funFact: "I'm always hungry!!!"
 };
 ```
-<h3 align="center"> <img align="center" src="https://media.giphy.com/media/lds79WZpA3SN2/giphy.gif"></h3>  
-  
+
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -215,9 +226,6 @@ Crypto
 Smartphone
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
-
-
-
 
 
 
