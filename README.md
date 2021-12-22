@@ -73,7 +73,6 @@
 	<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
 	<img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/>
 	<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
-	
 
 <h3 align="center">Frameworks & Libraries</h3>	
 <p align="center">
@@ -190,6 +189,3 @@ class About Me
     funFact: "I'm always hungry!!!"
 };
 ```
-
-
-
