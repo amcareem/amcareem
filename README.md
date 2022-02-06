@@ -8,7 +8,7 @@
   <br> <br>
 
 	
-
+  
 
 	
 <p align="center"> <img src="https://img.shields.io/badge/Name-Ahamed%20Musthafa%20Careem-brightgreen"/>
@@ -187,3 +187,5 @@ class About Me
     funFact: "I'm always hungry!!!"
 };
 ```
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ahamed-musthafa-careem-76b5b2215" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/ahamed-musthafa-careem-76b5b2215?trk=profile-badge">Ahamed Musthafa Careem</a></div>
+              
