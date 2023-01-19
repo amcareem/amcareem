@@ -66,31 +66,19 @@
 <h3 align="center">Designing & UI</h3>	
 <p align="center">
 	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
 	<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
 	<img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/>
-	<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
+	
 
 <h3 align="center">Frameworks & Libraries</h3>	
 <p align="center">
 	<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-	<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 	<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/>
 	<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-<h3 align="center">Forums</h3>	
-<p align="center">
-	<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-	<img src="https://img.shields.io/badge/OnePlusForums-%23EB0028.svg?style=for-the-badge&logo=OnePlus&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
-	<img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-	<img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white"/>
 
 <h3 align="center">Database</h3>		
 <p align="center">
@@ -119,29 +107,7 @@
 	<img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
-<h3 align="center">Gaming Platforms</h3>		
-<p align="center">
-	<img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white"/>
-	<img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
-	<img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black"/> 	
-	<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
 	
-<h3 align="center">Browser</h3>	
-<p align="center">
-	<img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white"/>
-
-<h3 align="center">Virtual Assistants</h3>	
-<p align="center">
-	<img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white"/>
-	<img src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/>
-
-<h3 align="center">Smartphones Currently Using</h3>		
-<p align="center">
-	<img src="https://img.shields.io/badge/Samsung%20A02s-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Apple%20iPhone%20SE2-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
 	
 <h3 align="center">Work</h3>	
 <p align="center">
@@ -159,34 +125,5 @@
 <p><img align="center" src="https://metrics.lecoq.io/amcareem?template=classic&config.timezone=Asia%2FColombo" alt="amcareem" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amcareem&langs_count=8 " alt="amcareem" /></p>
 
 
-```javascript
-
-class About Me
-{
-    Country: Sri Lanka
-    AGE: ["20"],
-    Birthday: ["December 12"],
-    Fortnite ID: Chilled JOKER
-    Favourite Game: Watch Dogs
-    Qualifications: ACCA FAB, CS50
-    Currently Studying: BTEC HND+Bsc in Software Engineering
-    Nickname: Joker
-    
-    def __init__(self):
-        self.name = "Ahamed Musthafa Careem"
-        self.role = "AMC Data Solutions Founder/Freelancer"
-        self.language_spoken = ["English", "Sinhala", "Tamil"]
-    
-    //life motto
-    if (sad() === true)
-    {
-    sad().stop();
-    beAwesome and Enjoy();
-    }
-    
-    currentFocus: "Studies",
-    funFact: "I'm always hungry!!!"
-};
-```
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ahamed-musthafa-careem-76b5b2215" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/ahamed-musthafa-careem-76b5b2215?trk=profile-badge">Ahamed Musthafa Careem</a></div>
               
