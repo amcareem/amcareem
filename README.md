@@ -77,19 +77,21 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-
-
-
 </details>
+
+
+## Specifications
+| *Name \ Familiarity* | High | Medium | Low |
+| --------------- | --------------- | --------------- | ------------- |
+| **Languages(programming)** | Python | JS, C, C++ | Swift, Java, Go |
+| **Frameworks/Platforms** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS, Docker |
+| **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI) | Parallel Computing, Internet of Things |
+| **Languages(human)** | Hindi, English | Spanish, Portuguese | Latin  |
+| **Other interests** | Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy |
+
+
+
+
 
 
 <h1 align="center">HELLO WORLD 👋, I'm Ahamed Musthafa Careem</h1>
