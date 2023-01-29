@@ -1,6 +1,7 @@
+
 <h1 align="center">HELLO WORLD 👋, I'm Ahamed Musthafa Careem</h1>
 
-<h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic programming explorer from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
+<h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic IT explorer from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
 
 <p align="center">
   <samp>Works at John Keells IT in Cloud Computing and a top rated Freelancer on Upwork. Interested in Software Engineering, Business, Data Science, Agile Methodologies, Cloud computing and Financial Law. Founder of AMC Data Solutions.
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38%20Thousand+%20lines%20of%20code-bl"/>	
 <img src="https://img.shields.io/badge/Works At%20-JKIT-cc00ff.svg"/>
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233D83F7&lines=21+year+old+Entrepreneur;Fortnite+Coach;Business+minded+%26+a+CS+Vibes)](https://git.io/typing-svg)	
+	
 </p>
 <hr>
 
@@ -146,6 +147,7 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
+
 	
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=amcareem" /> <img src="https://github-readme-stats.vercel.app/api?username=amcareem&show_icons=true&locale=en" alt="amcareem"/> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amcareem&" alt="amcareem"/> </a>
@@ -165,4 +167,6 @@
 
 
 </details>
+
+
 
