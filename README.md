@@ -1,4 +1,64 @@
 
+
+
+
+
+
+
+
+
+
+<h1 align="center">HELLO WORLD 👋, I'm Ahamed Musthafa Careem</h1>
+
+<h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic programming explorer from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
+
+<p align="center">
+  <samp>Works at John Keells IT in Cloud Computing and a top rated Freelancer on Upwork. Interested in Software Engineering, Business, Data Science, Agile Methodologies, Cloud computing and Financial Law. Founder of AMC Data Solutions.
+  </samp>
+  <br> <br>
+
+	
+  
+
+	
+<p align="center"> <img src="https://img.shields.io/badge/Name-Ahamed%20Musthafa%20Careem-brightgreen"/>
+	<img src="https://img.shields.io/badge/Birthday-Dec%2012th-orange"/>
+	<img src="https://img.shields.io/badge/Qualifications-ACCA%20FAB%2C%20HNDinSoftEng%2C%20CAIT-informational"/>
+	<img src="https://img.shields.io/badge/Code%20Grade-%22A%22%20for%20Effort-success"/> <img src="https://img.shields.io/badge/Flex-Former%20Rated%20Chess%20Player-4469b4"/>	 <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> <img src="https://img.shields.io/github/followers/amcareem?style=social"/> 	
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38%20Thousand+%20lines%20of%20code-bl"/>	
+<img src="https://img.shields.io/badge/Works At%20-JKIT-cc00ff.svg"/>
+	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233D83F7&lines=21+year+old+Entrepreneur;Fortnite+Coach;Business+minded+%26+a+CS+Vibes)](https://git.io/typing-svg)	
+</p>
+<hr>
+
+
+
+## Current Specifications
+| *Name \ Familiarity* | High | Medium | Low |
+| --------------- | --------------- | --------------- | ------------- |
+| **Languages(programming)** | Java, PhP | JS, C, C++ | Python, R |
+| **Frameworks/Platforms** | Node.js, Git | .Net, GCP, Angular JS, PyTorch | React, AWS, Docker |
+| **Cloud Computing** | Microsoft Azure | AWS | Google Cloud |
+| **Languages(human)** | English, Sinhala | Tamil, Turkish | -  |
+| **Other interests** | Monetary Economics, Gaming | Financial Law, PC Building | Cooking |
+
+
+
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amcareem" alt="amcareem" /></a> </p>
+
+
+
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://twitter.com/chilled_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chilled_coder" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahamedmusthafacareem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahamed-careem-76b5b2215" height="30" width="40" /></a>
+<a href="https://instagram.com/chilled_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chilled_coder" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Ahamed-Careem-1"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" height="30" width="40"/></a>    
+</p>
+
+
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -80,56 +140,9 @@
 </details>
 
 
-## Specifications
-| *Name \ Familiarity* | High | Medium | Low |
-| --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Python | JS, C, C++ | Swift, Java, Go |
-| **Frameworks/Platforms** | Tensorflow, PyTorch | Node.js, GCP, Git | Vue.js, AWS, Docker |
-| **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI) | Parallel Computing, Internet of Things |
-| **Languages(human)** | Hindi, English | Spanish, Portuguese | Latin  |
-| **Other interests** | Monetary Economics, Languages | Behavioural Economics, Neuroscience | Digital Privacy |
 
 
 
-
-
-
-<h1 align="center">HELLO WORLD 👋, I'm Ahamed Musthafa Careem</h1>
-
-<h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic programming explorer from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
-
-<p align="center">
-  <samp>Works at John Keells IT in Cloud Computing and a top rated Freelancer on Upwork. Interested in Software Engineering, Business, Data Science, Agile Methodologies, Cloud computing and Financial Law. Founder of AMC Data Solutions.
-  </samp>
-  <br> <br>
-
-	
-  
-
-	
-<p align="center"> <img src="https://img.shields.io/badge/Name-Ahamed%20Musthafa%20Careem-brightgreen"/>
-	<img src="https://img.shields.io/badge/Birthday-Dec%2012th-orange"/>
-	<img src="https://img.shields.io/badge/Qualifications-ACCA%20FAB%2C%20HNDinSoftEng%2C%20CAIT-informational"/>
-	<img src="https://img.shields.io/badge/Code%20Grade-%22A%22%20for%20Effort-success"/> <img src="https://img.shields.io/badge/Flex-Former%20Rated%20Chess%20Player-4469b4"/>	 <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> <img src="https://img.shields.io/github/followers/amcareem?style=social"/> 	
-<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38%20Thousand+%20lines%20of%20code-bl"/>	
-<img src="https://img.shields.io/badge/Works At%20-JKIT-cc00ff.svg"/>
-	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233D83F7&lines=21+year+old+Entrepreneur;Fortnite+Coach;Business+minded+%26+a+CS+Vibes)](https://git.io/typing-svg)	
-</p>
-<hr>
-
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amcareem" alt="amcareem" /></a> </p>
-
-
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://twitter.com/chilled_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chilled_coder" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahamedmusthafacareem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahamed-careem-76b5b2215" height="30" width="40" /></a>
-<a href="https://instagram.com/chilled_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chilled_coder" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Ahamed-Careem-1"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" height="30" width="40"/></a>    
-</p>
 
 <hr>
 
