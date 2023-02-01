@@ -150,12 +150,6 @@
 
 	
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=amcareem" /> <img src="https://github-readme-stats.vercel.app/api?username=amcareem&show_icons=true&locale=en" alt="amcareem"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amcareem&" alt="amcareem"/> </a>
-
-
-
-	
-
 	
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
