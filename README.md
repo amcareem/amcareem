@@ -4,7 +4,7 @@
 <h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic IT explorer from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
 
 <p align="center">
-  <samp>Works at John Keells IT in Cloud Computing (DevSecOps) and a top rated Freelancer on Upwork. Interested in Software Engineering, Business, Data Science, Agile Methodologies, Cloud computing and Financial Law.
+  <samp>Works at John Keells IT in Cloud Computing and a top rated Freelancer on Upwork. Interested in Software Engineering, Business, Data Science, Agile Methodologies, Cloud computing and Financial Law.
   </samp>
   <br> <br>
 
@@ -30,7 +30,7 @@
 | **Frameworks/Platforms** | Node.js, Git | .Net, GCP, Angular JS, PyTorch | React, AWS, Docker |
 | **Cloud Computing** | Microsoft Azure | AWS | Google Cloud |
 | **Languages(human)** | English, Sinhala | Tamil, Turkish | -  |
-| **Other interests** | Monetary Economics, Gaming | Financial Law, PC Building | Cooking |
+| **Other interests** | Monetary Economics, Gaming | Financial Law, PC Building | SLEEPING |
 
 
 
