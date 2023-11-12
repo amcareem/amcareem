@@ -27,10 +27,10 @@
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | Java, PhP | JS, C, C++ | Python, R |
-| **Frameworks/Platforms** | Node.js, Git | .Net, GCP, Angular JS, PyTorch | React, AWS, Docker |
-| **Cloud Computing** | Microsoft Azure | AWS | Google Cloud |
+| **Frameworks/Platforms** | Node.js, Docker | .Net, Git, Angular JS, PyTorch | React, Vue.js  |
+| **Cloud Computing** | Microsoft Azure | AWS | Oracle Cloud, Google Cloud |
 | **Languages(human)** | English, Sinhala | Tamil, Turkish | -  |
-| **Other interests** | Monetary Economics, Gaming | Financial Law, PC Building | SLEEPING |
+| **Other interests** | Gaming | Financial Law, PC Building | SLEEPING |
 
 
 
