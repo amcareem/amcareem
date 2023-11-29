@@ -11,8 +11,8 @@
 
 	
 <p align="center"> <img src="https://img.shields.io/badge/Name-Ahamed%20Musthafa%20Careem-brightgreen"/>
-	<img src="https://img.shields.io/badge/Birthday-Dec%2012th-orange"/>
-	<img src="https://img.shields.io/badge/Qualifications-ACCA%20FAB%2C%20HNDinSoftEng%2C%20CAIT-informational"/>
+	<img src="https://img.shields.io/badge/Certifications-AzureX3%20OracleX2%206SigmaX2-orange"/>
+	<img src="https://img.shields.io/badge/Qualifications-ACCA%20FAB%2C%20HNDinSoftEng%2C%20BscSoftEng-informational"/>
 	<img src="https://img.shields.io/badge/Code%20Grade-%22A%22%20for%20Effort-success"/> <img src="https://img.shields.io/badge/Flex-Former%20Rated%20Chess%20Player-4469b4"/>	 <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> <img src="https://img.shields.io/github/followers/amcareem?style=social"/> 	
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48%20Thousand+%20lines%20of%20code-bl"/>	
 <img src="https://img.shields.io/badge/Works At%20-JKIT-cc00ff.svg"/>
@@ -26,10 +26,10 @@
 ## Current Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Java, PhP | JS, C, C++ | Python, R |
-| **Frameworks/Platforms** | Node.js, Docker | .Net, Git, Angular JS, PyTorch | React, Vue.js  |
+| **Languages(programming)** | Java, PhP | JS, Python | C, C++, R |
+| **Frameworks/Platforms** | Docker | .Net, Git, Angular JS, Node.js  | React, Vue.js  |
 | **Cloud Computing** | Microsoft Azure | AWS | Oracle Cloud, Google Cloud |
-| **Languages(human)** | English, Sinhala | Tamil, Turkish | -  |
+| **Languages(human)** | English, Sinhala | Tamil  | Turkish  |
 | **Other interests** | Gaming | Financial Law, PC Building | SLEEPING |
 
 
