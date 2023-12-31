@@ -1,4 +1,3 @@
-
 <h1 align="center">HELLO WORLD 👋, I'm Ahamed Careem</h1>
 
 <h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic IT explorer from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
@@ -21,18 +20,52 @@
 </p>
 <hr>
 
+<h2 align="center">Current Specifications</h2>
+<p align="center">🌟 Proficiency Levels: 🟢 High | 🟡 Medium | 🔴 Low</p>
 
+<table align="center">
+  <tr>
+    <th>🖥️ Programming Languages</th>
+    <th>🛠️ Frameworks/Platforms</th>
+    <th>☁️ Cloud Computing</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Java, PHP:</strong> 🟢 High<br>
+      <strong>JavaScript, Python:</strong> 🟡 Medium<br>
+      <strong>C, C++, R:</strong> 🔴 Low
+    </td>
+    <td>
+      <strong>Docker:</strong> 🟢 High<br>
+      <strong>.Net, Git, Angular JS, Node.js:</strong> 🟡 Medium<br>
+      <strong>React, Vue.js:</strong> 🔴 Low
+    </td>
+    <td>
+      <strong>Microsoft Azure:</strong> 🟢 High<br>
+      <strong>AWS:</strong> 🟡 Medium<br>
+      <strong>Oracle Cloud, Google Cloud:</strong> 🔴 Low
+    </td>
+  </tr>
+</table>
 
-## Current Specifications
-| *Name \ Familiarity* | High | Medium | Low |
-| --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Java, PhP | JS, Python | C, C++, R |
-| **Frameworks/Platforms** | Docker | .Net, Git, Angular JS, Node.js  | React, Vue.js  |
-| **Cloud Computing** | Microsoft Azure | AWS | Oracle Cloud, Google Cloud |
-| **Languages(human)** | English, Sinhala | Tamil  | Turkish  |
-| **Other interests** | Gaming | Financial Law, PC Building | SLEEPING |
-
-
+<table align="center">
+  <tr>
+    <th>🗣️ Human Languages</th>
+    <th>🎮 Other Interests</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>English, Sinhala:</strong> 🟢 High<br>
+      <strong>Tamil:</strong> 🟡 Medium<br>
+      <strong>Turkish:</strong> 🔴 Low
+    </td>
+    <td>
+      <strong>Gaming:</strong> 🟢 High<br>
+      <strong>Financial Law, PC Building:</strong> 🟡 Medium<br>
+      <strong>Sleeping:</strong> 🔴 Low
+    </td>
+  </tr>
+</table>
 
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amcareem" alt="amcareem" /></a> </p>
