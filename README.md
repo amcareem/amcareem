@@ -165,6 +165,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Ahamed Careem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amcareem"/>
+  </a>
+</p>
 
 
 # 💻 General Teck Stack:
