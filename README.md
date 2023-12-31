@@ -1,11 +1,16 @@
-<h1 align="center">HELLO WORLD 👋, I'm Ahamed Careem</h1>
-
-<h3 align="center"><img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="50">A passionate enthusiastic IT explorer from Sri Lanka<img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="50"></h3> 
+<h1 align="center">Hello World! 👋 I'm Ahamed Careem from Sri Lanka</h1>
 
 <p align="center">
-  <samp>Works at John Keells IT in Cloud Computing and a top rated Freelancer on Upwork. Interested in Software Engineering, Business, Data Science, Agile Methodologies, Cloud computing and Financial Law.
-  </samp>
-  <br> <br>
+  <img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="40"> 
+  <strong>Associate Consultant</strong> at John Keells IT &amp; <strong>Top-Rated Freelancer</strong> on Upwork
+  <img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="40">
+</p>
+
+<p align="center">
+  With a keen interest in <strong>DevOps</strong>, <strong>Site Reliability Engineering</strong>, 
+  <strong>Unified Support</strong>, <strong>Agile Methodologies</strong>, <strong>Cloud Computing</strong>, and 
+  <strong>Financial Law</strong>, I am committed to delivering excellence and innovation in the IT sector.
+</p>
 
 
 	
