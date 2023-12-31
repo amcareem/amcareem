@@ -161,12 +161,6 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Ahamed Careem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amcareem&theme=gotham"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Ahamed Careem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amcareem"/>
   </a>
 </p>
