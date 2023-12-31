@@ -141,20 +141,29 @@
     <a href="https://github.com/amcareem/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahamed Careem's streak" src="https://streak-stats.demolab.com/?user=amcareem&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
     </a>
+</p>
 
+<p align="center">
+  <h3 align="center">💻 GitHub Profile Stats</h3>
+</p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amcareem&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/><br/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=amcareem&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>	
-	
-
+<p align="center">
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amcareem&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)	
-	
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ahamed Careem's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=amcareem&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
 
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amcareem&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Ahamed Careem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amcareem&theme=gotham"/>
+  </a>
+</p>
 
 
 
