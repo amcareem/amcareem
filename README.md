@@ -1,8 +1,21 @@
-<h1 align="center">Hello World! 👋 I'm Ahamed Careem from Sri Lanka</h1>
+<h1 align="center" style="font-size: 2.5em; color: #1E90FF; font-weight: bold; text-shadow: 2px 2px 4px #000000;">
+  👋 Hello World! I'm Ahamed Careem
+</h1>
+
+<p align="center" style="font-size: 1.2em; color: #FFD700; margin-top: -10px;">
+  🚀 <span style="background-color: #FF6347; color: #FFFFFF; padding: 5px 10px; border-radius: 5px; box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);">
+  Adventurer in the Realm of Technology</span> 🚀
+</p>
+
+<p align="center" style="font-size: 1em; color: #32CD32; text-shadow: 1px 1px 2px #000000;">
+  <i>"Embracing the digital odyssey, one code line at a time!"</i>
+</p>
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="40"> 
-  <strong>Associate Consultant</strong> at John Keells IT &amp; <strong>Top-Rated Freelancer</strong> on Upwork
+  <strong>Associate Consultant</strong> at John Keells IT &amp; <strong>Former Top-Rated Freelancer</strong> on Upwork
   <img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="40">
 </p>
 
