@@ -11,8 +11,6 @@
   <i>"Embracing the digital odyssey, one code line at a time!"</i>
 </p>
 
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="40"> 
   <strong>Associate Consultant</strong> at John Keells IT &amp; <strong>Former Top-Rated Freelancer</strong> on Upwork
@@ -24,8 +22,6 @@
   <strong>Unified Support</strong>, <strong>Agile Methodologies</strong>, <strong>Cloud Computing</strong>, and 
   <strong>Financial Law</strong>, I am committed to delivering excellence and innovation in the IT sector.
 </p>
-
-
 	
 <p align="center"> <img src="https://img.shields.io/badge/Name-Ahamed%20Musthafa%20Careem-brightgreen"/>
 	<img src="https://img.shields.io/badge/Certifications-AzureX3%20OracleX2%206SigmaX2-orange"/>
@@ -33,7 +29,6 @@
 	<img src="https://img.shields.io/badge/Code%20Grade-%22A%22%20for%20Effort-success"/> <img src="https://img.shields.io/badge/Flex-Former%20Rated%20Chess%20Player-4469b4"/>	 <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> <img src="https://img.shields.io/github/followers/amcareem?style=social"/> 	
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48%20Thousand+%20lines%20of%20code-bl"/>	
 <img src="https://img.shields.io/badge/Works At%20-JKIT-cc00ff.svg"/>
-	
 	
 </p>
 <hr>
@@ -89,7 +84,6 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amcareem" alt="amcareem" /></a> </p>
 
 
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/chilled_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chilled_coder" height="30" width="40" /></a>
@@ -97,12 +91,6 @@
 <a href="https://instagram.com/chilled_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chilled_coder" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Ahamed-Careem-1"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" height="30" width="40"/></a>    
 </p>
-
-
-
-
-
-
 
 
 <details> 
@@ -147,7 +135,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
 <h3>☁️ Hosting/SaaS</h3>
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -176,17 +163,11 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-
-
 </details>
-
-
-
 
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
-
 
 <p align="center">
     <a href="https://github.com/amcareem/github-readme-streak-stats">
