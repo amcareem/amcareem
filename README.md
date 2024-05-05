@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/eK6GrPltclFoMdbnYg/giphy.gif" width="40"> 
-  <strong>Associate Consultant</strong> at John Keells IT &amp; <strong>Former Top-Rated Freelancer</strong> on Upwork
+  <strong>Associate Consultant (Cloud Unified Support)</strong> at John Keells IT &amp; <strong>Former Top-Rated Freelancer</strong> on Upwork
   <img src="https://media.giphy.com/media/kzyQry8mXgw7YaENXO/giphy.gif" width="40">
 </p>
 
@@ -24,7 +24,7 @@
 </p>
 	
 <p align="center"> <img src="https://img.shields.io/badge/Name-Ahamed%20Musthafa%20Careem-brightgreen"/>
-	<img src="https://img.shields.io/badge/Certifications-AzureX3%20OracleX2%206SigmaX2-orange"/>
+	<img src="https://img.shields.io/badge/Certifications-AzureX5%20OracleX2%206SigmaX2-orange"/>
 	<img src="https://img.shields.io/badge/Qualifications-ACCA%20FAB%2C%20HNDinSoftEng%2C%20BscSoftEng-informational"/>
 	<img src="https://img.shields.io/badge/Code%20Grade-%22A%22%20for%20Effort-success"/> <img src="https://img.shields.io/badge/Flex-Former%20Rated%20Chess%20Player-4469b4"/>	 <img src="https://komarev.com/ghpvc/?username=amcareem&label=Profile%20views&color=0e75b6&style=flat" alt="amcareem" /> <img src="https://img.shields.io/github/followers/amcareem?style=social"/> 	
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48%20Thousand+%20lines%20of%20code-bl"/>	
